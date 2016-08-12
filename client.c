@@ -24,6 +24,7 @@ int main(){
     printf("Message form server: %s\n", buffer);
    
     //¹Ø±ÕÌ×½Ó×Ö
+//²âÊÔ
     close(sock);
     return 0;
 }
