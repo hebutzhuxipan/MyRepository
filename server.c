@@ -33,6 +33,6 @@ int main(){
     //关闭套接字
     close(clnt_sock);
     close(serv_sock);
-
+	//服务器测试
     return 0;
 }
